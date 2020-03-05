@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='HN19_FR_Android_05_Basic_Android_Exam_TrungPX4'

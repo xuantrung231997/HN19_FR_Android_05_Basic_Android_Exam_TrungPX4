@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HN19_FR_Android_05_Basic_Android_Exam_TrungPX4</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_screen_tv_next">Next</string>
+    <string name="main_screen_tv_previous">previous</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_time">Sort by time</string>
+</resources>
